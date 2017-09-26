@@ -1,2 +1,2 @@
-"Goodbye Git" 
-"Hello again Git" 
+"Goodbye Gitby" 
+"Hello again Gitty" 
